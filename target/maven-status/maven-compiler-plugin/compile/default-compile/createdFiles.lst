@@ -1,0 +1,17 @@
+controller\CaseController.class
+controller\HomeController.class
+controller\ContattoController.class
+controller\RuoloController.class
+repository\ContactsRepository.class
+config\Config.class
+controller\UserController.class
+model\Contatto.class
+repository\RuoloRepository.class
+config\ConnectionDatabase.class
+repository\UserRepositoryImpl.class
+repository\RuoloRepositoryImpl.class
+repository\UserRepository.class
+repository\ContactsRepositoryImpl.class
+model\Ruolo.class
+controller\LogoutController.class
+model\User.class
